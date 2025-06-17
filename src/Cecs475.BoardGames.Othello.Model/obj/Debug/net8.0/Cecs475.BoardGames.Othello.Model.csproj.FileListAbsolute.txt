@@ -1,0 +1,16 @@
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.Othello.Model\bin\Debug\net8.0\Cecs475.BoardGames.Othello.Model.deps.json
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.Othello.Model\bin\Debug\net8.0\Cecs475.BoardGames.Othello.Model.dll
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.Othello.Model\bin\Debug\net8.0\Cecs475.BoardGames.Othello.Model.pdb
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.Othello.Model\bin\Debug\net8.0\Cecs475.BoardGames.Model.dll
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.Othello.Model\bin\Debug\net8.0\Cecs475.BoardGames.Model.pdb
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.Othello.Model\obj\Debug\net8.0\Cecs475.BoardGames.Othello.Model.csproj.AssemblyReference.cache
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.Othello.Model\obj\Debug\net8.0\Cecs475.BoardGames.Othello.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.Othello.Model\obj\Debug\net8.0\Cecs475.BoardGames.Othello.Model.AssemblyInfoInputs.cache
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.Othello.Model\obj\Debug\net8.0\Cecs475.BoardGames.Othello.Model.AssemblyInfo.cs
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.Othello.Model\obj\Debug\net8.0\Cecs475.BoardGames.Othello.Model.csproj.CoreCompileInputs.cache
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.Othello.Model\obj\Debug\net8.0\Cecs475.BoardGames.Othello.Model.sourcelink.json
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.Othello.Model\obj\Debug\net8.0\Cecs475..16C98CA3.Up2Date
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.Othello.Model\obj\Debug\net8.0\Cecs475.BoardGames.Othello.Model.dll
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.Othello.Model\obj\Debug\net8.0\refint\Cecs475.BoardGames.Othello.Model.dll
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.Othello.Model\obj\Debug\net8.0\Cecs475.BoardGames.Othello.Model.pdb
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.Othello.Model\obj\Debug\net8.0\ref\Cecs475.BoardGames.Othello.Model.dll

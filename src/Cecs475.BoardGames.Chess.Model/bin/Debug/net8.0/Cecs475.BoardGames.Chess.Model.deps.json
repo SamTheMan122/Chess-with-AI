@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cecs475.BoardGames.Chess.Model/1.0.0": {
+        "dependencies": {
+          "Cecs475.BoardGames.Model": "1.0.0"
+        },
+        "runtime": {
+          "Cecs475.BoardGames.Chess.Model.dll": {}
+        }
+      },
+      "Cecs475.BoardGames.Model/1.0.0": {
+        "runtime": {
+          "Cecs475.BoardGames.Model.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cecs475.BoardGames.Chess.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cecs475.BoardGames.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

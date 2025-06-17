@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Cecs475.BoardGames.Chess.Model</name>
+    </assembly>
+    <members>
+        <member name="T:Cecs475.BoardGames.Chess.Model.ChessBoard">
+            <summary>
+            Represents the board state of a game of chess. Tracks which squares of the 8x8 board are occupied
+            by which player's pieces.
+            </summary>
+        </member>
+        <member name="M:Cecs475.BoardGames.Chess.Model.ChessBoard.#ctor(Cecs475.BoardGames.Chess.Model.ChessBoard)">
+            <summary>
+            To make copy of current chessboard for testing 
+            </summary>
+            <param name="original"></param>
+        </member>
+        <member name="M:Cecs475.BoardGames.Chess.Model.ChessBoard.GetAttackedPositions(System.Int32)">
+            <summary>
+            Returns squares attacked by player.
+            </summary>
+            
+        </member>
+        <member name="M:Cecs475.BoardGames.Chess.Model.ChessBoard.GetPositionsOfPiece(Cecs475.BoardGames.Chess.Model.ChessPieceType,System.Int32)">
+            <summary>
+            Returns every position where the given piece owned by the given player can be found.
+            </summary>
+            
+        </member>
+        <member name="M:Cecs475.BoardGames.Chess.Model.ChessBoard.FindKing(System.Int32)">
+            <summary>
+            The following are methods to help verify a valid move, especially those for kings and pawns
+            </summary>
+            <param name="m"></param>
+        </member>
+        <member name="M:Cecs475.BoardGames.Chess.Model.ChessBoard.GetPieceAtPosition(Cecs475.BoardGames.Model.BoardPosition)">
+            <summary>
+            Returns whatever chess piece is occupying the given position.
+            </summary>
+        </member>
+        <member name="M:Cecs475.BoardGames.Chess.Model.ChessBoard.GetPlayerAtPosition(Cecs475.BoardGames.Model.BoardPosition)">
+            <summary>
+            Retruns whatever player is occupying the given position.
+            </summary>
+        </member>
+        <member name="M:Cecs475.BoardGames.Chess.Model.ChessBoard.GetPositionsOfPiece(Cecs475.BoardGames.Chess.Model.ChessPiece)">
+            <summary>
+            Returns all board positions where the given piece can be found.
+            </summary>
+        </member>
+        <member name="M:Cecs475.BoardGames.Chess.Model.ChessBoard.PositionIsEmpty(Cecs475.BoardGames.Model.BoardPosition)">
+            <summary>
+            
+            Returns true if the given position has no piece on it.
+            </summary>
+        </member>
+        <member name="M:Cecs475.BoardGames.Chess.Model.ChessBoard.PositionIsEnemy(Cecs475.BoardGames.Model.BoardPosition,System.Int32)">
+            <summary>
+            Returns true if the given position contains a piece that is the enemy of the given player.
+            </summary>
+            <remarks>returns false if the position is not in bounds</remarks>
+        </member>
+        <member name="M:Cecs475.BoardGames.Chess.Model.ChessBoard.SetPieceAtPosition(Cecs475.BoardGames.Model.BoardPosition,Cecs475.BoardGames.Chess.Model.ChessPiece)">
+            <summary>
+            Mutates the board state so that the given piece is at the given position.
+            </summary>
+        </member>
+        <member name="M:Cecs475.BoardGames.Chess.Model.ChessBoard.PawnAttacks(Cecs475.BoardGames.Model.BoardPosition,Cecs475.BoardGames.Chess.Model.ChessPiece)">
+            <summary>
+            Returns attackable positions of Pawn
+            </summary>
+        </member>
+        <member name="T:Cecs475.BoardGames.Chess.Model.ChessMove">
+            <summary>
+            Represents a single move to be applied to a chess board.
+            </summary>
+        </member>
+        <member name="P:Cecs475.BoardGames.Chess.Model.ChessMove.StartPosition">
+            <summary>
+            The starting position of the move.
+            </summary>
+        </member>
+        <member name="P:Cecs475.BoardGames.Chess.Model.ChessMove.EndPosition">
+            <summary>
+            The ending position of the move.
+            </summary>
+        </member>
+        <member name="P:Cecs475.BoardGames.Chess.Model.ChessMove.MoveType">
+            <summary>
+            The type of move being applied.
+            </summary>
+        </member>
+        <member name="P:Cecs475.BoardGames.Chess.Model.ChessMove.Player">
+            <inheritdoc />
+        </member>
+        <member name="M:Cecs475.BoardGames.Chess.Model.ChessMove.#ctor(Cecs475.BoardGames.Model.BoardPosition,Cecs475.BoardGames.Model.BoardPosition,Cecs475.BoardGames.Chess.Model.ChessMoveType)">
+            <summary>
+            Constructs a ChessMove that moves a piece from one position to another
+            </summary>
+            <param name="start">the starting position of the piece to move</param>
+            <param name="end">the position where the piece will end up</param>
+            <param name="moveType">the type of move represented</param>
+        </member>
+        <member name="M:Cecs475.BoardGames.Chess.Model.ChessMove.Equals(Cecs475.BoardGames.Chess.Model.ChessMove)">
+            <summary>
+            True if both moves start and end at the same positions.
+            </summary>
+        </member>
+        <member name="M:Cecs475.BoardGames.Chess.Model.ChessMove.Equals(System.Object)">
+            <summary>
+            True if both moves start and end at the same positions.
+            </summary>
+        </member>
+        <member name="T:Cecs475.BoardGames.Chess.Model.PawnPromotionChessMove">
+            <summary>
+            Represents a ChessMove that is promoting a pawn to a chosen piece type.
+            </summary>
+        </member>
+        <member name="P:Cecs475.BoardGames.Chess.Model.PawnPromotionChessMove.SelectedPromotion">
+            <summary>
+            The ChessPieceType that the pawn will be promoted to.
+            </summary>
+        </member>
+        <member name="M:Cecs475.BoardGames.Chess.Model.PawnPromotionChessMove.#ctor(Cecs475.BoardGames.Model.BoardPosition,Cecs475.BoardGames.Model.BoardPosition,Cecs475.BoardGames.Chess.Model.ChessPieceType)">
+            <summary>
+            Constructs a ChessMove that moves a pawn to the final rank and promotes it to a chosen piece type.
+            </summary>
+        </member>
+        <member name="T:Cecs475.BoardGames.Chess.Model.ChessMoveType">
+            <summary>
+            Identifies the type of move represented by a ChessMove object, in particular highlighting 
+            "special" moves.
+            </summary>
+        </member>
+        <member name="F:Cecs475.BoardGames.Chess.Model.ChessMoveType.Normal">
+            <summary>
+            Moving one piece using its normal move rules
+            </summary>
+        </member>
+        <member name="F:Cecs475.BoardGames.Chess.Model.ChessMoveType.CastleQueenSide">
+            <summary>
+            Castling to the queen side
+            </summary>
+        </member>
+        <member name="F:Cecs475.BoardGames.Chess.Model.ChessMoveType.CastleKingSide">
+            <summary>
+            Castling to the king side
+            </summary>
+        </member>
+        <member name="F:Cecs475.BoardGames.Chess.Model.ChessMoveType.EnPassant">
+            <summary>
+            Performing an en passant
+            </summary>
+        </member>
+        <member name="F:Cecs475.BoardGames.Chess.Model.ChessMoveType.PawnPromote">
+            <summary>
+            Promoting a pawn that is reaching the final rank
+            </summary>
+        </member>
+        <member name="T:Cecs475.BoardGames.Chess.Model.ChessPiece">
+            <summary>
+            Represents a chess piece owned by a particular player.
+            </summary>
+        </member>
+        <member name="P:Cecs475.BoardGames.Chess.Model.ChessPiece.PieceType">
+            <summary>
+            The type of the piece.
+            </summary>
+        </member>
+        <member name="P:Cecs475.BoardGames.Chess.Model.ChessPiece.Player">
+            <summary>
+            The player that controls the piece.
+            </summary>
+        </member>
+        <member name="P:Cecs475.BoardGames.Chess.Model.ChessPiece.Empty">
+            <summary>
+            A ChessPiece that is equal to any empty position on a chess board.
+            </summary>
+        </member>
+        <member name="T:Cecs475.BoardGames.Chess.Model.ChessPieceType">
+            <summary>
+            Represents the type of chess piece occupying a square on a chess board.
+            </summary>
+        </member>
+        <member name="F:Cecs475.BoardGames.Chess.Model.ChessPieceType.Empty">
+            <summary>
+            An empty square.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,60 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+			 xmlns:local="clr-namespace:Cecs475.BoardGames.Chess.AvaloniaView"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="800"
+             x:Class="Cecs475.BoardGames.Chess.AvaloniaView.ChessView">
+	<UserControl.Resources>
+		<local:ChessViewModel x:Key="vm"/>
+		<local:ChessSquarePlayerConverter x:Key="PlayerColor"/>
+		<local:ChessSquareBackgroundConverter x:Key="BackgroundColor"/>
+		<local:ChessSquareImageConverter x:Key="ImageConverter"/>
+	</UserControl.Resources>
+
+	<ItemsControl x:DataType="local:ChessViewModel" x:Name="BoardPositions" DataContext="{StaticResource vm}"
+                  ItemsSource="{Binding Squares}">
+		<ItemsControl.ItemsPanel>
+			<ItemsPanelTemplate>
+				<UniformGrid Columns="8" Rows="8" Background="Blue"/>
+				
+			</ItemsPanelTemplate>
+		</ItemsControl.ItemsPanel>
+		
+		<ItemsControl.ItemTemplate>
+			<DataTemplate>
+				<!-- 
+                This control is created for each element in the ItemSource. 
+                A Border control draws a border around whatever control it contains.
+                -->
+				<Border BorderThickness="1" BorderBrush="Black">
+					<Panel PointerEntered="Panel_PointerEntered" PointerExited="Panel_PointerExited" PointerReleased="Panel_PointerReleased">
+						<!--
+						The background color of the panel depends on both its position and whether it is highlighted.
+						-->
+						<Panel.Background>
+							<MultiBinding Converter="{StaticResource BackgroundColor}">
+								<Binding Path="Position"/>
+								<Binding Path="IsKingInCheck"/>
+								<Binding Path="IsSelected"/>
+								<Binding Path="IsHighlighted"/>
+								<Binding Path="IsPossibleMoveHover"/>
+							</MultiBinding>
+						</Panel.Background>
+
+						<!-- 
+						A ContentControl is just a placeholder that gets replaced by its Content. 
+						We use it here because it can Bind to the Player property of an OthelloSquare object,
+						using our PlayerColor resource to convert that int to a control.
+						-->
+						<ContentControl Content="{Binding Player, Converter={StaticResource PlayerColor}}"></ContentControl>
+						<Image Source="{Binding Piece, Converter={StaticResource ImageConverter}}" Stretch="Uniform"/>
+					</Panel>
+					
+					
+				</Border>
+			</DataTemplate>
+		</ItemsControl.ItemTemplate>
+		
+	</ItemsControl>
+</UserControl>

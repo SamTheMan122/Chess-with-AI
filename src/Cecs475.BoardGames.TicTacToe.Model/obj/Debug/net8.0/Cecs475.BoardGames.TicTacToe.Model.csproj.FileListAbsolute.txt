@@ -1,0 +1,16 @@
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.TicTacToe.Model\bin\Debug\net8.0\Cecs475.BoardGames.TicTacToe.Model.deps.json
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.TicTacToe.Model\bin\Debug\net8.0\Cecs475.BoardGames.TicTacToe.Model.dll
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.TicTacToe.Model\bin\Debug\net8.0\Cecs475.BoardGames.TicTacToe.Model.pdb
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.TicTacToe.Model\bin\Debug\net8.0\Cecs475.BoardGames.Model.dll
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.TicTacToe.Model\bin\Debug\net8.0\Cecs475.BoardGames.Model.pdb
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.TicTacToe.Model\obj\Debug\net8.0\Cecs475.BoardGames.TicTacToe.Model.csproj.AssemblyReference.cache
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.TicTacToe.Model\obj\Debug\net8.0\Cecs475.BoardGames.TicTacToe.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.TicTacToe.Model\obj\Debug\net8.0\Cecs475.BoardGames.TicTacToe.Model.AssemblyInfoInputs.cache
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.TicTacToe.Model\obj\Debug\net8.0\Cecs475.BoardGames.TicTacToe.Model.AssemblyInfo.cs
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.TicTacToe.Model\obj\Debug\net8.0\Cecs475.BoardGames.TicTacToe.Model.csproj.CoreCompileInputs.cache
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.TicTacToe.Model\obj\Debug\net8.0\Cecs475.BoardGames.TicTacToe.Model.sourcelink.json
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.TicTacToe.Model\obj\Debug\net8.0\Cecs475..582E06F9.Up2Date
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.TicTacToe.Model\obj\Debug\net8.0\Cecs475.BoardGames.TicTacToe.Model.dll
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.TicTacToe.Model\obj\Debug\net8.0\refint\Cecs475.BoardGames.TicTacToe.Model.dll
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.TicTacToe.Model\obj\Debug\net8.0\Cecs475.BoardGames.TicTacToe.Model.pdb
+C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.TicTacToe.Model\obj\Debug\net8.0\ref\Cecs475.BoardGames.TicTacToe.Model.dll
