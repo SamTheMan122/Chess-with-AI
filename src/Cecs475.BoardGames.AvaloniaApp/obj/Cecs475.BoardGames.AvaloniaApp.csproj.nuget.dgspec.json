@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.AvaloniaApp\\Cecs475.BoardGames.AvaloniaApp.csproj": {}
+    "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.AvaloniaApp\\Cecs475.BoardGames.AvaloniaApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.AvaloniaApp\\Cecs475.BoardGames.AvaloniaApp.csproj": {
+    "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.AvaloniaApp\\Cecs475.BoardGames.AvaloniaApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.AvaloniaApp\\Cecs475.BoardGames.AvaloniaApp.csproj",
+        "projectUniqueName": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.AvaloniaApp\\Cecs475.BoardGames.AvaloniaApp.csproj",
         "projectName": "Cecs475.BoardGames.AvaloniaApp",
-        "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.AvaloniaApp\\Cecs475.BoardGames.AvaloniaApp.csproj",
+        "projectPath": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.AvaloniaApp\\Cecs475.BoardGames.AvaloniaApp.csproj",
         "packagesPath": "C:\\Users\\Sam19\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.AvaloniaApp\\obj\\",
+        "outputPath": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.AvaloniaApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,29 +33,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.AvaloniaView\\Cecs475.BoardGames.AvaloniaView.csproj": {
-                "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.AvaloniaView\\Cecs475.BoardGames.AvaloniaView.csproj"
+              "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.AvaloniaView\\Cecs475.BoardGames.AvaloniaView.csproj": {
+                "projectPath": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.AvaloniaView\\Cecs475.BoardGames.AvaloniaView.csproj"
               },
-              "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Chess.AvaloniaView\\Cecs475.BoardGames.Chess.AvaloniaView.csproj": {
-                "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Chess.AvaloniaView\\Cecs475.BoardGames.Chess.AvaloniaView.csproj"
+              "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.Chess.AvaloniaView\\Cecs475.BoardGames.Chess.AvaloniaView.csproj": {
+                "projectPath": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.Chess.AvaloniaView\\Cecs475.BoardGames.Chess.AvaloniaView.csproj"
               },
-              "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Chess.Model\\Cecs475.BoardGames.Chess.Model.csproj": {
-                "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Chess.Model\\Cecs475.BoardGames.Chess.Model.csproj"
+              "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.Chess.Model\\Cecs475.BoardGames.Chess.Model.csproj": {
+                "projectPath": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.Chess.Model\\Cecs475.BoardGames.Chess.Model.csproj"
               },
-              "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Model\\Cecs475.BoardGames.Model.csproj": {
-                "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Model\\Cecs475.BoardGames.Model.csproj"
-              },
-              "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Othello.AvaloniaView\\Cecs475.BoardGames.Othello.AvaloniaView.csproj": {
-                "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Othello.AvaloniaView\\Cecs475.BoardGames.Othello.AvaloniaView.csproj"
-              },
-              "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Othello.Model\\Cecs475.BoardGames.Othello.Model.csproj": {
-                "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Othello.Model\\Cecs475.BoardGames.Othello.Model.csproj"
-              },
-              "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.TicTacToe.AvaloniaView\\Cecs475.BoardGames.TicTacToe.AvaloniaView.csproj": {
-                "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.TicTacToe.AvaloniaView\\Cecs475.BoardGames.TicTacToe.AvaloniaView.csproj"
-              },
-              "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.TicTacToe.Model\\Cecs475.BoardGames.TicTacToe.Model.csproj": {
-                "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.TicTacToe.Model\\Cecs475.BoardGames.TicTacToe.Model.csproj"
+              "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.Model\\Cecs475.BoardGames.Model.csproj": {
+                "projectPath": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.Model\\Cecs475.BoardGames.Model.csproj"
               }
             }
           }
@@ -125,14 +113,14 @@
         }
       }
     },
-    "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.AvaloniaView\\Cecs475.BoardGames.AvaloniaView.csproj": {
+    "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.AvaloniaView\\Cecs475.BoardGames.AvaloniaView.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.AvaloniaView\\Cecs475.BoardGames.AvaloniaView.csproj",
+        "projectUniqueName": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.AvaloniaView\\Cecs475.BoardGames.AvaloniaView.csproj",
         "projectName": "Cecs475.BoardGames.AvaloniaView",
-        "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.AvaloniaView\\Cecs475.BoardGames.AvaloniaView.csproj",
+        "projectPath": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.AvaloniaView\\Cecs475.BoardGames.AvaloniaView.csproj",
         "packagesPath": "C:\\Users\\Sam19\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.AvaloniaView\\obj\\",
+        "outputPath": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.AvaloniaView\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -154,8 +142,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Model\\Cecs475.BoardGames.Model.csproj": {
-                "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Model\\Cecs475.BoardGames.Model.csproj"
+              "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.Model\\Cecs475.BoardGames.Model.csproj": {
+                "projectPath": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.Model\\Cecs475.BoardGames.Model.csproj"
               }
             }
           }
@@ -205,14 +193,14 @@
         }
       }
     },
-    "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Chess.AvaloniaView\\Cecs475.BoardGames.Chess.AvaloniaView.csproj": {
+    "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.Chess.AvaloniaView\\Cecs475.BoardGames.Chess.AvaloniaView.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Chess.AvaloniaView\\Cecs475.BoardGames.Chess.AvaloniaView.csproj",
+        "projectUniqueName": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.Chess.AvaloniaView\\Cecs475.BoardGames.Chess.AvaloniaView.csproj",
         "projectName": "Cecs475.BoardGames.Chess.AvaloniaView",
-        "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Chess.AvaloniaView\\Cecs475.BoardGames.Chess.AvaloniaView.csproj",
+        "projectPath": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.Chess.AvaloniaView\\Cecs475.BoardGames.Chess.AvaloniaView.csproj",
         "packagesPath": "C:\\Users\\Sam19\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Chess.AvaloniaView\\obj\\",
+        "outputPath": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.Chess.AvaloniaView\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -234,11 +222,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.AvaloniaView\\Cecs475.BoardGames.AvaloniaView.csproj": {
-                "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.AvaloniaView\\Cecs475.BoardGames.AvaloniaView.csproj"
+              "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.AvaloniaView\\Cecs475.BoardGames.AvaloniaView.csproj": {
+                "projectPath": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.AvaloniaView\\Cecs475.BoardGames.AvaloniaView.csproj"
               },
-              "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Chess.Model\\Cecs475.BoardGames.Chess.Model.csproj": {
-                "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Chess.Model\\Cecs475.BoardGames.Chess.Model.csproj"
+              "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.Chess.Model\\Cecs475.BoardGames.Chess.Model.csproj": {
+                "projectPath": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.Chess.Model\\Cecs475.BoardGames.Chess.Model.csproj"
               }
             }
           }
@@ -300,14 +288,14 @@
         }
       }
     },
-    "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Chess.Model\\Cecs475.BoardGames.Chess.Model.csproj": {
+    "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.Chess.Model\\Cecs475.BoardGames.Chess.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Chess.Model\\Cecs475.BoardGames.Chess.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.Chess.Model\\Cecs475.BoardGames.Chess.Model.csproj",
         "projectName": "Cecs475.BoardGames.Chess.Model",
-        "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Chess.Model\\Cecs475.BoardGames.Chess.Model.csproj",
+        "projectPath": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.Chess.Model\\Cecs475.BoardGames.Chess.Model.csproj",
         "packagesPath": "C:\\Users\\Sam19\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Chess.Model\\obj\\",
+        "outputPath": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.Chess.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -329,8 +317,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Model\\Cecs475.BoardGames.Model.csproj": {
-                "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Model\\Cecs475.BoardGames.Model.csproj"
+              "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.Model\\Cecs475.BoardGames.Model.csproj": {
+                "projectPath": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.Model\\Cecs475.BoardGames.Model.csproj"
               }
             }
           }
@@ -370,14 +358,14 @@
         }
       }
     },
-    "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Model\\Cecs475.BoardGames.Model.csproj": {
+    "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.Model\\Cecs475.BoardGames.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Model\\Cecs475.BoardGames.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.Model\\Cecs475.BoardGames.Model.csproj",
         "projectName": "Cecs475.BoardGames.Model",
-        "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Model\\Cecs475.BoardGames.Model.csproj",
+        "projectPath": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.Model\\Cecs475.BoardGames.Model.csproj",
         "packagesPath": "C:\\Users\\Sam19\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Model\\obj\\",
+        "outputPath": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -399,304 +387,6 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Othello.AvaloniaView\\Cecs475.BoardGames.Othello.AvaloniaView.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Othello.AvaloniaView\\Cecs475.BoardGames.Othello.AvaloniaView.csproj",
-        "projectName": "Cecs475.BoardGames.Othello.AvaloniaView",
-        "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Othello.AvaloniaView\\Cecs475.BoardGames.Othello.AvaloniaView.csproj",
-        "packagesPath": "C:\\Users\\Sam19\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Othello.AvaloniaView\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\Sam19\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.AvaloniaView\\Cecs475.BoardGames.AvaloniaView.csproj": {
-                "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.AvaloniaView\\Cecs475.BoardGames.AvaloniaView.csproj"
-              },
-              "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Othello.Model\\Cecs475.BoardGames.Othello.Model.csproj": {
-                "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Othello.Model\\Cecs475.BoardGames.Othello.Model.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "MessageBox.Avalonia": {
-              "target": "Package",
-              "version": "[3.1.6, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Othello.Model\\Cecs475.BoardGames.Othello.Model.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Othello.Model\\Cecs475.BoardGames.Othello.Model.csproj",
-        "projectName": "Cecs475.BoardGames.Othello.Model",
-        "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Othello.Model\\Cecs475.BoardGames.Othello.Model.csproj",
-        "packagesPath": "C:\\Users\\Sam19\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Othello.Model\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\Sam19\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Model\\Cecs475.BoardGames.Model.csproj": {
-                "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Model\\Cecs475.BoardGames.Model.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.TicTacToe.AvaloniaView\\Cecs475.BoardGames.TicTacToe.AvaloniaView.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.TicTacToe.AvaloniaView\\Cecs475.BoardGames.TicTacToe.AvaloniaView.csproj",
-        "projectName": "Cecs475.BoardGames.TicTacToe.AvaloniaView",
-        "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.TicTacToe.AvaloniaView\\Cecs475.BoardGames.TicTacToe.AvaloniaView.csproj",
-        "packagesPath": "C:\\Users\\Sam19\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.TicTacToe.AvaloniaView\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\Sam19\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.AvaloniaView\\Cecs475.BoardGames.AvaloniaView.csproj": {
-                "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.AvaloniaView\\Cecs475.BoardGames.AvaloniaView.csproj"
-              },
-              "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.TicTacToe.Model\\Cecs475.BoardGames.TicTacToe.Model.csproj": {
-                "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.TicTacToe.Model\\Cecs475.BoardGames.TicTacToe.Model.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "Avalonia": {
-              "target": "Package",
-              "version": "[11.1.1, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.TicTacToe.Model\\Cecs475.BoardGames.TicTacToe.Model.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.TicTacToe.Model\\Cecs475.BoardGames.TicTacToe.Model.csproj",
-        "projectName": "Cecs475.BoardGames.TicTacToe.Model",
-        "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.TicTacToe.Model\\Cecs475.BoardGames.TicTacToe.Model.csproj",
-        "packagesPath": "C:\\Users\\Sam19\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.TicTacToe.Model\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\Sam19\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Model\\Cecs475.BoardGames.Model.csproj": {
-                "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Model\\Cecs475.BoardGames.Model.csproj"
-              }
-            }
           }
         },
         "warningProperties": {

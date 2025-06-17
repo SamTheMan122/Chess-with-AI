@@ -10,3 +10,15 @@ C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.Bo
 C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.Model\obj\Debug\net8.0\refint\Cecs475.BoardGames.Model.dll
 C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.Model\obj\Debug\net8.0\Cecs475.BoardGames.Model.pdb
 C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.Model\obj\Debug\net8.0\ref\Cecs475.BoardGames.Model.dll
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.Model\bin\Debug\net8.0\Cecs475.BoardGames.Model.deps.json
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.Model\bin\Debug\net8.0\Cecs475.BoardGames.Model.dll
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.Model\bin\Debug\net8.0\Cecs475.BoardGames.Model.pdb
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.Model\obj\Debug\net8.0\Cecs475.BoardGames.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.Model\obj\Debug\net8.0\Cecs475.BoardGames.Model.AssemblyInfoInputs.cache
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.Model\obj\Debug\net8.0\Cecs475.BoardGames.Model.AssemblyInfo.cs
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.Model\obj\Debug\net8.0\Cecs475.BoardGames.Model.csproj.CoreCompileInputs.cache
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.Model\obj\Debug\net8.0\Cecs475.BoardGames.Model.sourcelink.json
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.Model\obj\Debug\net8.0\Cecs475.BoardGames.Model.dll
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.Model\obj\Debug\net8.0\refint\Cecs475.BoardGames.Model.dll
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.Model\obj\Debug\net8.0\Cecs475.BoardGames.Model.pdb
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.Model\obj\Debug\net8.0\ref\Cecs475.BoardGames.Model.dll

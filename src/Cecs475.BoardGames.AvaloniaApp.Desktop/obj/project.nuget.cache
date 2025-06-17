@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/4+cA17+kJQ=",
+  "dgSpecHash": "Ai/iSpVpK+A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.AvaloniaApp.Desktop\\Cecs475.BoardGames.AvaloniaApp.Desktop.csproj",
+  "projectFilePath": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.AvaloniaApp.Desktop\\Cecs475.BoardGames.AvaloniaApp.Desktop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sam19\\.nuget\\packages\\avalonia\\11.1.1\\avalonia.11.1.1.nupkg.sha512",
     "C:\\Users\\Sam19\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.22045.20230930\\avalonia.angle.windows.natives.2.1.22045.20230930.nupkg.sha512",

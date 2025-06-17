@@ -1207,10 +1207,6 @@
           "Cecs475.BoardGames.Chess.AvaloniaView": "1.0.0",
           "Cecs475.BoardGames.Chess.Model": "1.0.0",
           "Cecs475.BoardGames.Model": "1.0.0",
-          "Cecs475.BoardGames.Othello.AvaloniaView": "1.0.0",
-          "Cecs475.BoardGames.Othello.Model": "1.0.0",
-          "Cecs475.BoardGames.TicTacToe.AvaloniaView": "1.0.0",
-          "Cecs475.BoardGames.TicTacToe.Model": "1.0.0",
           "CommunityToolkit.Mvvm": "8.2.2",
           "Eremex.Avalonia.Controls": "1.0.46",
           "MessageBox.Avalonia": "3.1.6"
@@ -1277,62 +1273,6 @@
         },
         "runtime": {
           "bin/placeholder/Cecs475.BoardGames.Model.dll": {}
-        }
-      },
-      "Cecs475.BoardGames.Othello.AvaloniaView/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Cecs475.BoardGames.AvaloniaView": "1.0.0",
-          "Cecs475.BoardGames.Othello.Model": "1.0.0",
-          "MessageBox.Avalonia": "3.1.6"
-        },
-        "compile": {
-          "bin/placeholder/Cecs475.BoardGames.Othello.AvaloniaView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Cecs475.BoardGames.Othello.AvaloniaView.dll": {}
-        }
-      },
-      "Cecs475.BoardGames.Othello.Model/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Cecs475.BoardGames.Model": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Cecs475.BoardGames.Othello.Model.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Cecs475.BoardGames.Othello.Model.dll": {}
-        }
-      },
-      "Cecs475.BoardGames.TicTacToe.AvaloniaView/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Avalonia": "11.1.1",
-          "Cecs475.BoardGames.AvaloniaView": "1.0.0",
-          "Cecs475.BoardGames.TicTacToe.Model": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Cecs475.BoardGames.TicTacToe.AvaloniaView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Cecs475.BoardGames.TicTacToe.AvaloniaView.dll": {}
-        }
-      },
-      "Cecs475.BoardGames.TicTacToe.Model/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Cecs475.BoardGames.Model": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Cecs475.BoardGames.TicTacToe.Model.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Cecs475.BoardGames.TicTacToe.Model.dll": {}
         }
       }
     }
@@ -3252,34 +3192,13 @@
       "type": "project",
       "path": "../Cecs475.BoardGames.Model/Cecs475.BoardGames.Model.csproj",
       "msbuildProject": "../Cecs475.BoardGames.Model/Cecs475.BoardGames.Model.csproj"
-    },
-    "Cecs475.BoardGames.Othello.AvaloniaView/1.0.0": {
-      "type": "project",
-      "path": "../Cecs475.BoardGames.Othello.AvaloniaView/Cecs475.BoardGames.Othello.AvaloniaView.csproj",
-      "msbuildProject": "../Cecs475.BoardGames.Othello.AvaloniaView/Cecs475.BoardGames.Othello.AvaloniaView.csproj"
-    },
-    "Cecs475.BoardGames.Othello.Model/1.0.0": {
-      "type": "project",
-      "path": "../Cecs475.BoardGames.Othello.Model/Cecs475.BoardGames.Othello.Model.csproj",
-      "msbuildProject": "../Cecs475.BoardGames.Othello.Model/Cecs475.BoardGames.Othello.Model.csproj"
-    },
-    "Cecs475.BoardGames.TicTacToe.AvaloniaView/1.0.0": {
-      "type": "project",
-      "path": "../Cecs475.BoardGames.TicTacToe.AvaloniaView/Cecs475.BoardGames.TicTacToe.AvaloniaView.csproj",
-      "msbuildProject": "../Cecs475.BoardGames.TicTacToe.AvaloniaView/Cecs475.BoardGames.TicTacToe.AvaloniaView.csproj"
-    },
-    "Cecs475.BoardGames.TicTacToe.Model/1.0.0": {
-      "type": "project",
-      "path": "../Cecs475.BoardGames.TicTacToe.Model/Cecs475.BoardGames.TicTacToe.Model.csproj",
-      "msbuildProject": "../Cecs475.BoardGames.TicTacToe.Model/Cecs475.BoardGames.TicTacToe.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Avalonia.Desktop >= 11.1.1",
       "Cecs475.BoardGames.AvaloniaApp >= 1.0.0",
-      "Cecs475.BoardGames.AvaloniaView >= 1.0.0",
-      "Cecs475.BoardGames.Othello.AvaloniaView >= 1.0.0"
+      "Cecs475.BoardGames.AvaloniaView >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3289,11 +3208,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.AvaloniaApp.Desktop\\Cecs475.BoardGames.AvaloniaApp.Desktop.csproj",
+      "projectUniqueName": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.AvaloniaApp.Desktop\\Cecs475.BoardGames.AvaloniaApp.Desktop.csproj",
       "projectName": "Cecs475.BoardGames.AvaloniaApp.Desktop",
-      "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.AvaloniaApp.Desktop\\Cecs475.BoardGames.AvaloniaApp.Desktop.csproj",
+      "projectPath": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.AvaloniaApp.Desktop\\Cecs475.BoardGames.AvaloniaApp.Desktop.csproj",
       "packagesPath": "C:\\Users\\Sam19\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.AvaloniaApp.Desktop\\obj\\",
+      "outputPath": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.AvaloniaApp.Desktop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3315,14 +3234,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.AvaloniaApp\\Cecs475.BoardGames.AvaloniaApp.csproj": {
-              "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.AvaloniaApp\\Cecs475.BoardGames.AvaloniaApp.csproj"
+            "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.AvaloniaApp\\Cecs475.BoardGames.AvaloniaApp.csproj": {
+              "projectPath": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.AvaloniaApp\\Cecs475.BoardGames.AvaloniaApp.csproj"
             },
-            "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.AvaloniaView\\Cecs475.BoardGames.AvaloniaView.csproj": {
-              "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.AvaloniaView\\Cecs475.BoardGames.AvaloniaView.csproj"
-            },
-            "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Othello.AvaloniaView\\Cecs475.BoardGames.Othello.AvaloniaView.csproj": {
-              "projectPath": "C:\\Users\\Sam19\\OneDrive\\Documents\\GitHub\\testing\\project-3-a-team\\src\\Cecs475.BoardGames.Othello.AvaloniaView\\Cecs475.BoardGames.Othello.AvaloniaView.csproj"
+            "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.AvaloniaView\\Cecs475.BoardGames.AvaloniaView.csproj": {
+              "projectPath": "C:\\Users\\Sam19\\OneDrive\\Desktop\\Stuff\\Projects\\Chess with AI\\src\\Cecs475.BoardGames.AvaloniaView\\Cecs475.BoardGames.AvaloniaView.csproj"
             }
           }
         }

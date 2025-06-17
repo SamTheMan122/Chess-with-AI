@@ -27,22 +27,8 @@
 		<ProjectReference Include="..\Cecs475.BoardGames.AvaloniaView\Cecs475.BoardGames.AvaloniaView.csproj" />
 		<ProjectReference Include="..\Cecs475.BoardGames.Chess.AvaloniaView\Cecs475.BoardGames.Chess.AvaloniaView.csproj" />
 		<ProjectReference Include="..\Cecs475.BoardGames.Model\Cecs475.BoardGames.Model.csproj" />
-		<ProjectReference Include="..\Cecs475.BoardGames.Othello.AvaloniaView\Cecs475.BoardGames.Othello.AvaloniaView.csproj" />
-		<ProjectReference Include="..\Cecs475.BoardGames.Othello.Model\Cecs475.BoardGames.Othello.Model.csproj" />
-		<ProjectReference Include="..\Cecs475.BoardGames.TicTacToe.AvaloniaView\Cecs475.BoardGames.TicTacToe.AvaloniaView.csproj" />
-		<ProjectReference Include="..\Cecs475.BoardGames.TicTacToe.Model\Cecs475.BoardGames.TicTacToe.Model.csproj" />
 	</ItemGroup>
 
-	<!--
-	<ItemGroup>
-		<Reference Include="Cecs475.BoardGames.Chess.ConsoleView">
-			<HintPath>..\..\lib\Cecs475.BoardGames.Chess.ConsoleView.dll</HintPath>
-		</Reference>
-		<Reference Include="Cecs475.BoardGames.Chess.Model">
-			<HintPath>..\..\lib\Cecs475.BoardGames.Chess.Model.dll</HintPath>
-		</Reference>
-	</ItemGroup>
-	-->
 	<ItemGroup>
 		<ProjectReference Include="..\Cecs475.BoardGames.Chess.Model\Cecs475.BoardGames.Chess.Model.csproj" />
 	</ItemGroup>

@@ -3,8 +3,7 @@ using Avalonia.Controls;
 using Avalonia.Markup.Xaml;
 using Cecs475.BoardGames.AvaloniaView;
 using Cecs475.BoardGames.Chess.AvaloniaView;
-using Cecs475.BoardGames.Othello.AvaloniaView;
-using Cecs475.BoardGames.TicTacToe.AvaloniaView;
+
 using SkiaSharp;
 
 namespace Cecs475.BoardGames.AvaloniaApp;
@@ -15,9 +14,7 @@ public partial class GameChoiceWindow : Window
     {
         InitializeComponent();
         this.GamesList.ItemsSource = new IAvaloniaGameFactory[] {
-			new ChessGameFactory(),
-			new OthelloGameFactory(),
-            new TicTacToeGameFactory()
+			new ChessGameFactory()
         };
     }
 

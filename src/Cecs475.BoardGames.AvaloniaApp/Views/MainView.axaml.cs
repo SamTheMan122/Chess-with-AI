@@ -60,8 +60,8 @@ public partial class MainView : UserControl
 
 		if (board.IsFinished) return;
 		
-        var bestMove = await Task.Run(() => MinimaxOpponent.FindBestMove(board.AIChessBoard(), depth: 3)); // Find best move for current player
-
+        var bestMove = await Task.Run(() => MinimaxOpponent.FindBestMove(board.AIChessBoard(), depth: 2)); // Find best move for current player
+		  
         if (bestMove != null)
         {
             vm.ApplyMove(bestMove);

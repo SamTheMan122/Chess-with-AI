@@ -31,3 +31,28 @@ C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.Bo
 C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.AvaloniaApp\obj\Debug\net8.0\refint\Avalonia\Cecs475.BoardGames.AvaloniaApp.dll
 C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.AvaloniaApp\obj\Debug\net8.0\Cecs475..0F440998.Up2Date
 C:\Users\Sam19\OneDrive\Documents\GitHub\testing\project-3-a-team\src\Cecs475.BoardGames.AvaloniaApp\obj\Debug\net8.0\ref\Cecs475.BoardGames.AvaloniaApp.dll
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.AvaloniaApp\bin\Debug\net8.0\Cecs475.BoardGames.AvaloniaApp.deps.json
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.AvaloniaApp\bin\Debug\net8.0\Cecs475.BoardGames.AvaloniaApp.dll
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.AvaloniaApp\bin\Debug\net8.0\Cecs475.BoardGames.AvaloniaApp.pdb
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.AvaloniaApp\bin\Debug\net8.0\Cecs475.BoardGames.AvaloniaView.dll
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.AvaloniaApp\bin\Debug\net8.0\Cecs475.BoardGames.Chess.AvaloniaView.dll
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.AvaloniaApp\bin\Debug\net8.0\Cecs475.BoardGames.Chess.Model.dll
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.AvaloniaApp\bin\Debug\net8.0\Cecs475.BoardGames.Model.dll
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.AvaloniaApp\bin\Debug\net8.0\Cecs475.BoardGames.AvaloniaView.pdb
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.AvaloniaApp\bin\Debug\net8.0\Cecs475.BoardGames.Chess.AvaloniaView.pdb
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.AvaloniaApp\bin\Debug\net8.0\Cecs475.BoardGames.Model.pdb
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.AvaloniaApp\bin\Debug\net8.0\Cecs475.BoardGames.Chess.Model.pdb
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.AvaloniaApp\bin\Debug\net8.0\Cecs475.BoardGames.Chess.Model.xml
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.AvaloniaApp\obj\Debug\net8.0\Cecs475.BoardGames.AvaloniaApp.csproj.AssemblyReference.cache
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.AvaloniaApp\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.AvaloniaApp\obj\Debug\net8.0\Avalonia\resources
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.AvaloniaApp\obj\Debug\net8.0\Cecs475.BoardGames.AvaloniaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.AvaloniaApp\obj\Debug\net8.0\Cecs475.BoardGames.AvaloniaApp.AssemblyInfoInputs.cache
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.AvaloniaApp\obj\Debug\net8.0\Cecs475.BoardGames.AvaloniaApp.AssemblyInfo.cs
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.AvaloniaApp\obj\Debug\net8.0\Cecs475.BoardGames.AvaloniaApp.csproj.CoreCompileInputs.cache
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.AvaloniaApp\obj\Debug\net8.0\Cecs475.BoardGames.AvaloniaApp.sourcelink.json
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.AvaloniaApp\obj\Debug\net8.0\Avalonia\Cecs475.BoardGames.AvaloniaApp.dll
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.AvaloniaApp\obj\Debug\net8.0\Avalonia\Cecs475.BoardGames.AvaloniaApp.pdb
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.AvaloniaApp\obj\Debug\net8.0\refint\Avalonia\Cecs475.BoardGames.AvaloniaApp.dll
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.AvaloniaApp\obj\Debug\net8.0\Cecs475..0F440998.Up2Date
+C:\Users\Sam19\OneDrive\Desktop\Stuff\Projects\Chess with AI\src\Cecs475.BoardGames.AvaloniaApp\obj\Debug\net8.0\ref\Cecs475.BoardGames.AvaloniaApp.dll

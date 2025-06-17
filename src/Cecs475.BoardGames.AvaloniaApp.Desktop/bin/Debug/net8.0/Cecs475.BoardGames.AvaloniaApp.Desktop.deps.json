@@ -10,8 +10,7 @@
         "dependencies": {
           "Avalonia.Desktop": "11.1.1",
           "Cecs475.BoardGames.AvaloniaApp": "1.0.0",
-          "Cecs475.BoardGames.AvaloniaView": "1.0.0",
-          "Cecs475.BoardGames.Othello.AvaloniaView": "1.0.0"
+          "Cecs475.BoardGames.AvaloniaView": "1.0.0"
         },
         "runtime": {
           "Cecs475.BoardGames.AvaloniaApp.Desktop.dll": {}
@@ -888,10 +887,6 @@
           "Cecs475.BoardGames.Chess.AvaloniaView": "1.0.0",
           "Cecs475.BoardGames.Chess.Model": "1.0.0",
           "Cecs475.BoardGames.Model": "1.0.0",
-          "Cecs475.BoardGames.Othello.AvaloniaView": "1.0.0",
-          "Cecs475.BoardGames.Othello.Model": "1.0.0",
-          "Cecs475.BoardGames.TicTacToe.AvaloniaView": "1.0.0",
-          "Cecs475.BoardGames.TicTacToe.Model": "1.0.0",
           "CommunityToolkit.Mvvm": "8.2.2",
           "Eremex.Avalonia.Controls": "1.0.46",
           "MessageBox.Avalonia": "3.1.6"
@@ -952,50 +947,34 @@
           }
         }
       },
-      "Cecs475.BoardGames.Othello.AvaloniaView/1.0.0": {
-        "dependencies": {
-          "Cecs475.BoardGames.AvaloniaView": "1.0.0",
-          "Cecs475.BoardGames.Othello.Model": "1.0.0",
-          "MessageBox.Avalonia": "3.1.6"
-        },
+      "Cecs475.BoardGames.Othello.AvaloniaView/1.0.0.0": {
         "runtime": {
           "Cecs475.BoardGames.Othello.AvaloniaView.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
       },
-      "Cecs475.BoardGames.Othello.Model/1.0.0": {
-        "dependencies": {
-          "Cecs475.BoardGames.Model": "1.0.0"
-        },
-        "runtime": {
-          "Cecs475.BoardGames.Othello.Model.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
-      "Cecs475.BoardGames.TicTacToe.AvaloniaView/1.0.0": {
-        "dependencies": {
-          "Avalonia": "11.1.1",
-          "Cecs475.BoardGames.AvaloniaView": "1.0.0",
-          "Cecs475.BoardGames.TicTacToe.Model": "1.0.0"
-        },
+      "Cecs475.BoardGames.TicTacToe.AvaloniaView/1.0.0.0": {
         "runtime": {
           "Cecs475.BoardGames.TicTacToe.AvaloniaView.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
       },
-      "Cecs475.BoardGames.TicTacToe.Model/1.0.0": {
-        "dependencies": {
-          "Cecs475.BoardGames.Model": "1.0.0"
-        },
+      "Cecs475.BoardGames.Othello.Model/1.0.0.0": {
+        "runtime": {
+          "Cecs475.BoardGames.Othello.Model.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Cecs475.BoardGames.TicTacToe.Model/1.0.0.0": {
         "runtime": {
           "Cecs475.BoardGames.TicTacToe.Model.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -1446,23 +1425,23 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Cecs475.BoardGames.Othello.AvaloniaView/1.0.0": {
-      "type": "project",
+    "Cecs475.BoardGames.Othello.AvaloniaView/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "Cecs475.BoardGames.Othello.Model/1.0.0": {
-      "type": "project",
+    "Cecs475.BoardGames.TicTacToe.AvaloniaView/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "Cecs475.BoardGames.TicTacToe.AvaloniaView/1.0.0": {
-      "type": "project",
+    "Cecs475.BoardGames.Othello.Model/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "Cecs475.BoardGames.TicTacToe.Model/1.0.0": {
-      "type": "project",
+    "Cecs475.BoardGames.TicTacToe.Model/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }
